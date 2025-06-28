@@ -2,13 +2,15 @@
 
 I'm a passionate **Junior Software Developer** specializing in **JavaScript**, **React**, **TypeScript**, and **TailwindCSS**.
 
-
+![Emmanuel Adedokun](<Black & Yellow Creative Business Facebook Cover (3).png>)
 
 ## 👨‍💻 About Me
 
 - 🌱 Currently growing my skills in frontend development
 - 🛠️ Building practical solutions and learning through hands-on projects
 - 🎯 Open to collaborations and excited to contribute to open source
+
+
 
 ## 💡 What I Love
 
